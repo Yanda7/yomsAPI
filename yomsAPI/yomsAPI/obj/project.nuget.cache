@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7qiAMrRifz1DlUfaOeTKZX6IYv7SnFbN+HTFFM+u+dg5tK7e6dWYGxAH6g5QsCubJkrk9VGEhCmox2ucvy9nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell i7\\source\\repos\\yomsAPI\\yomsAPI\\yomsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell i7\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\Dell i7\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Dell i7\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Dell i7\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell i7\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell i7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell i7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
